@@ -40,3 +40,6 @@ public class Survey {
 
     }
 }
+
+
+//user communicates with the app and the app communicates back
